@@ -1,0 +1,8 @@
+control
+sympy
+scipy
+numpy
+pandas
+plotly
+scikit-learn
+matplotlib
