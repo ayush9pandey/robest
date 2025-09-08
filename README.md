@@ -4,7 +4,7 @@
 This repository provides tools for quantifying the robustness of parameter-varying dynamical system models, with a focus on continuous-time systems. It includes general symbolic and numerical abstractions, sensitivity analysis, and bounds for estimation error.
 
 ## Paper
-Please refer to the paper for all the mathematical details: 
+Please refer to the paper for more details: 
 
 > Ayush Pandey. "Parameter Robustness in Data-Driven Estimation of Dynamical Systems". Conference on Decision and Control (CDC) 2025. 
 
